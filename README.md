@@ -13,7 +13,7 @@ This is a school intranet app that allows teachers to create and manage classes 
 1. Clone the repository
 
 ```sh
-git clone
+git clone https://github.com/LaulauChau/school-intranet-app.git
 ```
 
 2. Install dependencies
